@@ -595,7 +595,7 @@ Deploy PWA on All App Stores
 
 [Class 17 Urdu Facebook Video](https://www.facebook.com/zeeshanhanif/videos/10224016274939564/)
 
-[Class 17 Urdu Facebook Video](https://www.youtube.com/watch?v=N5JHz6TvGnM)
+[Class 17 Urdu YouTube Video](https://www.youtube.com/watch?v=N5JHz6TvGnM)
 
 ## Class 18 Progressive Web App (PWA) and Service Push Notification
 
